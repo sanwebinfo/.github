@@ -1,15 +1,9 @@
 ## Hi there 👋
 
-Sanweb - Free and Open Source Web apps, Scripts, API, and Widgets.
+Sanweb - Free and Open Source Web apps, Scripts, API, and Widgets.  
 
-#### Updates
+### Blog
 
-- FOSS: <a rel="me" href="https://fosstodon.org/@santhosh">Fosstodon</a>
-- Personal: <a rel="me" href="https://mastodon.social/@mskian">Mastodon</a>
-- Random things at - <a rel="me" href="https://mastodon.social/@sanweb">Sanweb Mastodon</a>
-
-#### Blog
-
-- FOSS Blog: <a href="https://foss.sanweb.info">foss.sanweb.info</a>
+- FOSS Blog: <a href="https://sanweb.info">foss.sanweb.info</a>  
 
 ✅ 🦄🥎
